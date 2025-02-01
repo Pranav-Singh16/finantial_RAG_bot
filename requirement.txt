@@ -1,0 +1,13 @@
+python-dotenv
+huggingface-hub
+langchain-community
+langchain-huggingface
+langchain-pinecone
+langchain
+pinecone-client
+transformers
+gradio>=4.0.0
+Pillow
+PyPDF2
+torch
+ipython
